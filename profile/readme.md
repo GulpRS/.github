@@ -7,4 +7,4 @@
 
 <br />
 
-> ### A personal platform for data exchange and exchange sales systems designed to solve multi-layered and complex processes.
+<h3 align="center">A personal platform for data exchange and exchange sales systems designed to solve multi-layered and complex processes.</h3>
